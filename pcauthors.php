@@ -13,7 +13,6 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Post CoAuthors
- * Plugin URI:        https://profiles.wordpress.org/kajalgohel/
  * Description:       Assign multiple contributors to posts and display them on the front-end.
  * Version:           1.0
  * Requires at least: 5.0

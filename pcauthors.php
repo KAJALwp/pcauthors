@@ -16,6 +16,8 @@
  * Plugin URI:        https://profiles.wordpress.org/kajalgohel/
  * Description:       Assign multiple contributors to posts and display them on the front-end.
  * Version:           1.0
+ * Requires at least: 5.0
+ * Requires PHP:      8.1
  * Author:            Kajal Gohel
  * Author URI:        https://profiles.wordpress.org/kajalgohel/
  * License:           GPL-2.0+
